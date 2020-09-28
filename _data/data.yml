@@ -150,19 +150,15 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: An Intelligence Layer for SD-WLANS
-        link: "#"
-        authors: E. Coronado, A. Thomas, R. Riggio
+        link: "https://ieeexplore.ieee.org/document/9110260"
+        authors: E. Coronado, A. Thomas, S. Bayhan, R. Riggio
         conference: IEEE NOMS, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Adaptive ML-based Frame Length Optimisation in Enterprise SD-WLANs"
+        link: "https://link.springer.com/article/10.1007/s10922-020-09527-y"
+        authors: E. Coronado, A. Thomas, R. Riggio
+        journal: "Journal of Network and Systems Management"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "https://ieeexplore.ieee.org/document/9110260"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

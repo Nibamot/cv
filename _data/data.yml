@@ -149,10 +149,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: An Intelligence Layer for SD-WLANS
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: E. Coronado, A. Thomas, R. Riggio
+        conference: IEEE NOMS, 2020
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -160,7 +160,7 @@ publications:
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
-        link: "#"
+        link: "https://ieeexplore.ieee.org/document/9110260"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
